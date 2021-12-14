@@ -11,3 +11,4 @@ jdk:
   - oraclejdk9
 language: java
 dist: focal
+script: uname -r
