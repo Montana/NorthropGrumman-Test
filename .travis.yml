@@ -10,4 +10,3 @@ cache:
 jdk:
   - oraclejdk9
 language: java
-dist: focal
